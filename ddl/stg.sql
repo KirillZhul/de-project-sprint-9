@@ -1,7 +1,3 @@
--- stg.order_events definition
-
--- Drop table
-
 -- DROP TABLE stg.order_events;
 
 CREATE TABLE stg.order_events (
