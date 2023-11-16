@@ -18,7 +18,7 @@
 В этом проекте реализованы все сервисы которые заполняют слои данных PostgreSQL, и визуализированы данные из витрины в дашборде (в Data Lens).
 
 Визуализация данных из витрин:
-https://datalens.yandex.ru/fxfkcnud2jn04-kolichestvo-zakazov
+[https://datalens.yandex.ru/fxfkcnud2jn04]
 
 Полная архитектура решения выглядит так:
 ![image](pics/2.png)
